@@ -1,4 +1,4 @@
-# meditatheque
+# mediatheque
 Data Base project : Create a data base with all that can be rent in libraries using mysql langage and workbench software.
 
 download and install mysql
